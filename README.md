@@ -33,6 +33,6 @@ ___
 [Jayanthi Ganesan](https://github.com/Jaygthi)<br/>
 [Julie Spence](https://github.com/enrtopy69)<br/>
 [Huy Do](https://github.com/HuydDo)<br/>
-[Izzy Hernandez](https://github.com/HernandesIzzy)<br/>
+[Izzy Hernandez](https://github.com/HernandezIzzy)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
